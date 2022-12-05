@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning VUE
 
-
+- 📁 https://nornoritnor.netlify.app/
 
 <!---
 Nor-Norit-Nor/Nor-Norit-Nor is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
