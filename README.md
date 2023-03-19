@@ -4,6 +4,8 @@
 
 - 🌱 I’m currently learning VUE
 
+- 🚧 Repositories under (re)contruction
+
 - 📁 https://nornoritnor.netlify.app/
 
 <!---
