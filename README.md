@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Nora, the human behind @Nor-Norit-Nor
 
-- ⌨ JS: React, React Native, AngularJS, Angular (13)
+- ⌨ JS: React, React Native, AngularJS, Angular (16), VUE
 
-- 🌱 I’m currently learning VUE
+- 🌱 Green dev (training to be more concious about tech sustainability)
 
 - 🚧 Repositories under (re)contruction
 
