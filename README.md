@@ -2,9 +2,9 @@
 
 - ⌨ JS: React, React Native, AngularJS, Angular (16), VUE
 
-- 🌱 Green dev (training to be more concious about tech sustainability)
+- 🌱 Certified Green dev (training to be more concious about tech sustainability)
 
-- 🚧 Repositories under (re)contruction
+- 🚧 Repositories under (re)contruction and/or private (most of them)
 
 - 📁 https://nornoritnor.netlify.app/
 
